@@ -1,1 +1,2 @@
-# survey_form
+# survey form
+I decided to make a survey form as a project. This is my first project I've made in awhile. In this project I demonstrate my knowledge of HTML, CSS, Bootstrap, and JavaScript. Something I learned while doing this project is forms and the form controls of bootstrap. I also got a lot of time to read documentation and solve my problems as I worked through this small project.
